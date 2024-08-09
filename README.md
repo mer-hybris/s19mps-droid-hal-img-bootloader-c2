@@ -1,0 +1,1 @@
+# Jolla C2 bootloader
