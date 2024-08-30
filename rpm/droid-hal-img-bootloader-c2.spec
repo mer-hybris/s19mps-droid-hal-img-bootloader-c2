@@ -5,6 +5,7 @@ License:    Proprietary
 Source0:    %{name}-%{version}.tar.gz
 BuildArch:  noarch
 Summary:    Bootloader and logo images for C2 device
+Provides:   droid-hal-s19mps-img-bootloader
 
 %description
 Bootloader and logo images for C2 device.
